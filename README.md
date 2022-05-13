@@ -14,7 +14,7 @@ For a lot of higher level courses in Machine Learning and Data Science, you find
 ## Courses
 1. [Mathematics for Machine Learning: Linear Algebra](https://github.com/chandlerbing65nm/Mathmatics-for-Machine-Learning/tree/main/Linear%20Algebra)
 
-      ![alt text](https://github.com/chandlerbing65nm/Mathmatics-for-Machine-Learning/blob/main/Linear%20Algebra/1.jpg)
+      ![alt text](https://github.com/chandlerbing65nm/Mathematics-for-Machine-Learning-Coursera/blob/main/Linear%20Algebra/1.jpg?raw=true)
       ### Skills I gained
       * Eigenvalues And Eigenvectors.
       * Basis (Linear Algebra).
@@ -23,7 +23,7 @@ For a lot of higher level courses in Machine Learning and Data Science, you find
       
 2. [Mathematics for Machine Learning: Multivariate Calculus](https://github.com/chandlerbing65nm/Mathmatics-for-Machine-Learning/tree/main/Multivariate%20Calculus)
 
-      ![alt text](https://github.com/chandlerbing65nm/Mathmatics-for-Machine-Learning/blob/main/Multivariate%20Calculus/2.jpg)
+      ![alt text](https://github.com/chandlerbing65nm/Mathematics-for-Machine-Learning-Coursera/blob/main/Multivariate%20Calculus/2.jpg?raw=true)
       ### Skills I gained
       * Linear Regression.
       * Vector Calculus.
@@ -32,7 +32,7 @@ For a lot of higher level courses in Machine Learning and Data Science, you find
 
 3. [Mathematics for Machine Learning: PCA](https://github.com/chandlerbing65nm/Mathmatics-for-Machine-Learning/tree/main/Principal%20Component%20Analysis)
 
-      ![alt text](https://github.com/chandlerbing65nm/Mathmatics-for-Machine-Learning/blob/main/Principal%20Component%20Analysis/3.jpg)
+      ![alt text](https://github.com/chandlerbing65nm/Mathematics-for-Machine-Learning-Coursera/blob/main/Principal%20Component%20Analysis/3.jpg?raw=true)
       ### What I Learned
       * Implement mathematical concepts using real-world data
       * Derive PCA from a projection perspective
